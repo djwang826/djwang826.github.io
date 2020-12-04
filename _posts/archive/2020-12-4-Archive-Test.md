@@ -1,6 +1,7 @@
 ---
-layout: archivePost
+layout: post
 title: Test Archive
+archive: archive
 ---
 
 Test archive post, confirming website works.
