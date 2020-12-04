@@ -5,10 +5,10 @@ permalink: /archive/
 ---
 
 <div class="archivePost">
-    {% for archivePost in site.archive %}
+    {% for post in site.archive %}
       <article class="post">
   
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ archivePost.title }}</a></h1>
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       </article>
     {% endfor %}
