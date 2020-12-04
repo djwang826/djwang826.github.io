@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Coder, gamer, chill lad.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Taiwanese, aspiring martial artist, always looking to learn.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[djwang826@gmail.com](mailto:djwang826@gmail.com)
