@@ -12,6 +12,14 @@ Now that I had my own site, I decided to spice it up by adding an archive tab wh
 
 In summary, this method simply separates the different types of posts I have through a new parameter I called *archive* in the **YAML front-matter** block. If the parameter exists in the block, the post will only show in the archive tab. If the parameter does not exist, the post will appear in the primary blog listing, such as this post.
 
+![blog-setup-1](/images/blog-setup-1.PNG)
+
+Here, we can see only the primary blog posts.
+
+![blog-setup-2](/images/blog-setup-2.PNG)
+
+Here, we can see only the archives posts.
+
 Now with everything setup, I could finally start just writing - which is exactly what I did with this post.
 
 Resources:
