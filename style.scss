@@ -31,9 +31,9 @@ html {
 }
 
 body {
-	background: $white;
+	background-color: var(--main-background-color);
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: var(--main-text-color);
 }
 
 .container {
