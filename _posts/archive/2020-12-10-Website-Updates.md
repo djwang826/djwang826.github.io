@@ -9,3 +9,7 @@ Here I will list the updates/changes made to the website.
 *December 10th, 2020*
 
 Added dark mode.
+
+*December 11th, 2020*
+
+Added favicon.
