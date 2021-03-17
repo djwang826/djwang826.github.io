@@ -24,3 +24,19 @@ After rewatching the animation tutorial videos, I decided to implement it and te
 ![GodotAdventures002](/images/GodotAdventures002.jpg)
 
 So now the plan is for me to create some basic top down sprites to get some experience in creating custom sprites and animating them, then once we have decided what kind of characters we want, I can begin creating the sprite sheets for inevitable transition to 2.5D. So currently, I will be watching the rest of the Godot tutorial videos to understand the code in our game, then figure out how to make top down pixel art, then full sprite sheet pixel art.
+
+*March 17th, 2021*
+
+**More animation research/actual testing**
+
+The plan changed again, and we decided to just go ahead to 2.5D immediately, but with basic sprites in only 2 directions (left/right) for testing/proof of concept. So I watched two beginner pixel art tutorials, one about the [overall process](https://www.youtube.com/watch?v=o_EKrg2fIuc), and the other about [character design](https://www.youtube.com/watch?v=vXm5VjZA4Ys). The overall tutorial talked about the basics, such as some pixel placement, color palettes, other pixel art tutorials, starting simple, and software to use. It gave an extremely concise and detailed [pixel art tutorial blog](https://blog.studiominiboss.com/pixelart), recommended [LoSpec Color Palettes](https://lospec.com/palette-list) for people who don't understand colors, and talked about Aseprite, Pyxel Edit, and Piskel for software. I ended up using Piskel for the character sprites as the app is simple to use and more importantly, free.  So I opened up Piskel and realized I didn't know the first thing about actual drawing/designing a character - which lead me to the second tutorial. It explained the process of character design, which was simplified to looking for references, drawing the silhouette, and finally filling the character with your style/details. This is how I ended up with my two new character sprites, the first a temporary main character sprite, and the other the temporary generic enemy sprite.
+
+![GodotAdventures003](/images/GodotAdventures003.jpg)
+
+I used knight pixel art as my reference for this. Also, the characters have no arms as we decided that it would be easier to not include arms and have attack animations separate, as this would cut down on a lot of animation time.
+
+![GodotAdventures004](/images/GodotAdventures004.jpg)
+
+I used bandit pixel art as my reference for this. Also, I used the Fruity-26 color palette for these characters.
+
+Next update will hopefully have the sprites animated and some tiles made.
