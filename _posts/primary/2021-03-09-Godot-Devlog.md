@@ -40,3 +40,17 @@ I used knight pixel art as my reference for this. Also, the characters have no a
 I used bandit pixel art as my reference for this. Also, I used the Fruity-26 color palette for these characters.
 
 Next update will hopefully have the sprites animated and some tiles made.
+
+*March 19th, 2021*
+
+**Devlog #4: Tile sets, more planning**
+
+I created a general rock wall tile set using Piskel to create the general base and then used the [Tilesetter program](https://www.tilesetter.org/) to generate the actual tile set. At first the sides were too thick, which made the tiles look too 2D when the character sprites stood next to it. This was fixed by thinning the tile on the sides and making the wall a more uniform color. Below is a comparison of the first version compared to the (more) finalized version.
+
+![GodotAdventures005](/images/GodotAdventures005.png)
+
+![GodotAdventures006](/images/GodotAdventures006.png)
+
+I then created a quick grass tile set, and if you don't look too closely, the grass looks pretty ok!
+
+![GodotAdventures007](/images/GodotAdventures007.png)
