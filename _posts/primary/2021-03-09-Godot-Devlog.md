@@ -54,3 +54,9 @@ I created a general rock wall tile set using Piskel to create the general base a
 I then created a quick grass tile set, and if you don't look too closely, the grass looks pretty ok!
 
 ![GodotAdventures007](/images/GodotAdventures007.png)
+
+*March 22nd, 2021*
+
+**Devlog #5: Water tile set, sprite updates**
+
+I created a water tile set, and now the plan is to recreate the character sprites at 24x24 px and compare to the 32x32 px sprites before starting animation. I'm also watching more Godot tutorials in order to help more with the coding.
