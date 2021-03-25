@@ -60,3 +60,9 @@ I then created a quick grass tile set, and if you don't look too closely, the gr
 **Devlog #5: Water tile set, sprite updates**
 
 I created a water tile set, and now the plan is to recreate the character sprites at 24x24 px and compare to the 32x32 px sprites before starting animation. I'm also watching more Godot tutorials in order to help more with the coding.
+
+*March 25th, 2021*
+
+**Devlog #6: Sprite updates**
+
+Character sprites were updated to 24x24 px, and everyone on the team liked it more so I will be going ahead with animating the 24x24 px sprites. I'll first animate left and right and see how it goes. Might buy Aseprite as the program looks a lot better/useful for animating then Piskel.

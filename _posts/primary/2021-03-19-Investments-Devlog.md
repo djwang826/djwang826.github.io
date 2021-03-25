@@ -80,3 +80,11 @@ Finished watching basic React JS tutorials, currently looking up similar project
 API research: IEX Cloud (free), Alpha Vantage (free), Xignite, Intrinio, Polygon.io, Tradier (free)
 
 Proof of concept: Install react app, make sure API calls work and can create the charts/tickers. Design will be afterwards.
+
+*March 25th, 2021*
+
+**Devlog #4: Basic website built**
+
+Finished building a basic react app that uses the Alpha Vantage API and creates a basic chart of the requested stock. I ran into a problem creating the chart using Plotly, as the current version has a memory error that hasn't been fixed in two years. Found a workaround solution [here](https://github.com/plotly/react-plotly.js/issues/135). Now that I know the basics, going to go back to researching what stocks to buy before coming back to focus on this project, as the main purpose of it is to have a very easy way track the stocks I will buy. Below is a screenshot of what the app looks like currently.
+
+![Investments-Devlog001](/images/investmentWeb001.PNG)
